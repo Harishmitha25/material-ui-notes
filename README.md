@@ -8,7 +8,7 @@ This Notes Application is a simple, user-friendly web application designed for c
 
 - **Create Notes:** Add new notes with a title and content.
 - **View Notes:** Display all notes in a grid layout.
-- 
+  
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
