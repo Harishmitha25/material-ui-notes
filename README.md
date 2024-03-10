@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Notes Application is a simple, user-friendly web application designed for creating, viewing, and managing personal notes. It leverages the power of React for the frontend and uses Material-UI for a sleek, modern user interface. This app allows users to create notes with titles and content, edit them, and organize their thoughts efficiently.
+This Notes Application is a simple, user-friendly web application designed for creating, viewing, and managing personal notes. It leverages the power of React for the frontend and uses Material-UI for a sleek, modern user interface. This app allows users to create notes with titles and content, and organize their thoughts efficiently.
 
 ## Features
 
